@@ -11,8 +11,8 @@ DEBUG = True
 # ALLOWED_HOSTS = []
 
 # ALLOWED_HOSTS = ['51.250.24.126', 'kofebe.sytes.net', 'localhost']
-ALLOWED_HOSTS = ['51.250.24.126', 'kofebe.sytes.net', '127.0.0.1', 'localhost']
-
+# ALLOWED_HOSTS = ['51.250.24.126', 'kofebe.sytes.net', '127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['51.250.24.126', 'taski-taski.zapto.org', '127.0.0.1', 'localhost']
 
 # Application definition
 
